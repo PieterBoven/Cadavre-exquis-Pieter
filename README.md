@@ -86,3 +86,10 @@ Master and branches power
 – Thor
 
 from the void came the darkness, from there light came.;.
+
+
+#### That shrimp story is starting to get on my nerves ####
+
+Why would anyone talk abuot a shrimp anyway?
+
+Not to mention his name .. Maurice ... man ..

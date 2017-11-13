@@ -85,7 +85,11 @@ Master and branches power
 “The answers you seek shall be yours, once I claim what is mine.”
 – Thor
 
+<<<<<<< HEAD
+Find the way to git the bass!
+=======
 from the void came the darkness, from there light came.;.
+<<<<<<< HEAD
 
 
 #### That shrimp story is starting to get on my nerves ####
@@ -93,3 +97,6 @@ from the void came the darkness, from there light came.;.
 Why would anyone talk abuot a shrimp anyway?
 
 Not to mention his name .. Maurice ... man ..
+=======
+>>>>>>> 01c96b805dda88686f89759dfb3dd69b732c27ac
+>>>>>>> developpement

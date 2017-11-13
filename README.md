@@ -27,3 +27,7 @@ They all added their thoughts, feelings and else.
 Everything has been updated.
 
 PUSH IT TO THE LIMIT
+
+##I'm not going to write.
+_In your stupid repo._
+*Really not,i'm not a sheep*

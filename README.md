@@ -20,4 +20,6 @@ It was a large lovely garden,
   
 ### there was once Nothing. Absolutely nothing. No thoughts, no feelings, no matter, no mass, not even time existed. There was no beginning nor an end to this madening void of.. nothing. You couldn't call it 'empty' because emptyness would imply that there once was 'sommething' 'somewhere'. But there wasn't. there was no empty space where there was nothing. even that empty space existed. And out of this 'nothingness' came a story.... 
 
-
+As I wrote and I wrote, I realized it was no joke.
+The git struggles had only started on this day.
+Soon they would repeat no matter the delay.

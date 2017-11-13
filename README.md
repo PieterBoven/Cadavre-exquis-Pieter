@@ -79,4 +79,6 @@ Master and branches power
 
    ** my name is Hombre, the farting carrot stem**
 
-   
+   # Im just making a mess on everyones repository.
+## Because i don't understand the exercise very wel.
+### I hope i'm doing it right.

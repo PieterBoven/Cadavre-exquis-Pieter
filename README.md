@@ -79,4 +79,5 @@ Master and branches power
 
    ** my name is Hombre, the farting carrot stem**
 
-   
+“The answers you seek shall be yours, once I claim what is mine.”
+– Thor

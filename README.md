@@ -68,3 +68,10 @@ Master and branches power
 
 
    L'ennui dans ce monde, c'est que les idiots sont sûrs d'eux et les gens sensés pleins de doutes.
+
+
+   Halo 1 was good
+
+   Halo 2 was okay
+
+   Halo 4 is not okay

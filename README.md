@@ -3,7 +3,6 @@
 ## Markdown Skills Improvements
 ## Git Skills Improvements
 ## Learning a workflow with contributors on GitHub
-=======
 
 
 What a *beautiful* story this is.
@@ -54,7 +53,7 @@ Right?
 ## There is an element of fun
 ## You find the fun and snap!
 ## **The job's a game**
->>>>>>> c47da05ef8b9eed860eec4ac5306a0341f5174a7
+
 
 We love [GitHub](https://github.com) so much :heart:
 
@@ -79,5 +78,10 @@ Master and branches power
 
    ** my name is Hombre, the farting carrot stem**
 
+   # Im just making a mess on everyones repository.
+## Because i don't understand the exercise very wel.
+### I hope i'm doing it right.
+
 “The answers you seek shall be yours, once I claim what is mine.”
 – Thor
+

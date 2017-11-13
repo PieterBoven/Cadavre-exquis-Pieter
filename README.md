@@ -56,3 +56,9 @@ Right?
 ## You find the fun and snap!
 ## **The job's a game**
 >>>>>>> c47da05ef8b9eed860eec4ac5306a0341f5174a7
+
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power

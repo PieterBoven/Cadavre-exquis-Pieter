@@ -75,3 +75,8 @@ Master and branches power
    Halo 2 was okay
 
    Halo 4 is not okay
+
+
+   ** my name is Hombre, the farting carrot stem**
+
+   

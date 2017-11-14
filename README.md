@@ -85,7 +85,9 @@ Master and branches power
 “The answers you seek shall be yours, once I claim what is mine.”
 – Thor
 
+
 Find the way to git the bass!
+
 
 from the void came the darkness, from there light came.;.
 
